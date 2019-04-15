@@ -1,0 +1,47 @@
+La instancia se resolvio con una funcion objetivo encontrada de 1309.00
+Al cliente 1 SI se le cumple su demanda
+Al cliente 2 SI se le cumple su demanda
+Al cliente 3 SI se le cumple su demanda
+Al cliente 4 SI se le cumple su demanda
+Al cliente 5 SI se le cumple su demanda
+Al cliente 6 SI se le cumple su demanda
+El camion 3 NO sera utilizado en este problema por lo cual terminara su jornada inmediatamente
+El camion 4 NO sera utilizado en este problema por lo cual terminara su jornada inmediatamente
+El camion 7 NO sera utilizado en este problema por lo cual terminara su jornada inmediatamente
+El camion 8 NO sera utilizado en este problema por lo cual terminara su jornada inmediatamente
+El camion 9 NO sera utilizado en este problema por lo cual terminara su jornada inmediatamente
+k1
+o1		440.0
+d3		450.0
+c6s1		540.0
+d3		565.0
+c3s2		671.0
+f1		711.0
+k2
+o2		551.0
+d2		570.0
+c5s1		589.0
+d2		656.0
+c5s2		675.0
+d3		715.0
+c1s1		750.0
+f2		772.0
+k5
+o2		572.0
+d3		585.0
+c6s2		636.0
+f2		654.0
+k6
+o1		565.0
+d3		575.0
+c2s1		660.0
+f2		687.0
+k10
+o1		450.0
+d3		460.0
+c3s1		599.0
+d4		618.0
+c4s1		670.0
+d3		705.0
+c2s2		756.0
+f2		783.0

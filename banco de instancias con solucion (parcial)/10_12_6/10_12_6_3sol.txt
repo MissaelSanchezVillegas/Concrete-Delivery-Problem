@@ -1,0 +1,38 @@
+La instancia se resolvio con una funcion objetivo encontrada de 12679.00
+Al cliente 1 NO se le cumple su demanda
+Al cliente 2 SI se le cumple su demanda
+Al cliente 3 SI se le cumple su demanda
+Al cliente 4 NO se le cumple su demanda
+Al cliente 5 SI se le cumple su demanda
+Al cliente 6 NO se le cumple su demanda
+Al cliente 7 SI se le cumple su demanda
+Al cliente 8 SI se le cumple su demanda
+Al cliente 9 SI se le cumple su demanda
+Al cliente 10 NO se le cumple su demanda
+Al cliente 11 SI se le cumple su demanda
+Al cliente 12 SI se le cumple su demanda
+El outsourcer se encargara de distribuir al cliente 3
+El outsourcer se encargara de distribuir al cliente 5
+El outsourcer se encargara de distribuir al cliente 7
+El outsourcer se encargara de distribuir al cliente 8
+El outsourcer se encargara de distribuir al cliente 9
+El outsourcer se encargara de distribuir al cliente 11
+El outsourcer se encargara de distribuir al cliente 12
+El camion 1 NO sera utilizado en este problema por lo cual terminara su jornada inmediatamente
+El camion 2 NO sera utilizado en este problema por lo cual terminara su jornada inmediatamente
+El camion 3 NO sera utilizado en este problema por lo cual terminara su jornada inmediatamente
+El camion 4 NO sera utilizado en este problema por lo cual terminara su jornada inmediatamente
+El camion 5 NO sera utilizado en este problema por lo cual terminara su jornada inmediatamente
+El camion 6 NO sera utilizado en este problema por lo cual terminara su jornada inmediatamente
+El camion 8 NO sera utilizado en este problema por lo cual terminara su jornada inmediatamente
+El camion 9 NO sera utilizado en este problema por lo cual terminara su jornada inmediatamente
+k7
+o2		416.0
+d6		420.0
+c2s1		620.0
+f1		651.0
+k10
+o2		647.0
+d6		651.0
+c2s2		710.0
+f1		741.0

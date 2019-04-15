@@ -1,0 +1,35 @@
+La instancia se resolvio con una funcion objetivo encontrada de 11150.00
+Al cliente 1 SI se le cumple su demanda
+Al cliente 2 SI se le cumple su demanda
+Al cliente 3 SI se le cumple su demanda
+Al cliente 4 NO se le cumple su demanda
+Al cliente 5 SI se le cumple su demanda
+Al cliente 6 SI se le cumple su demanda
+Al cliente 7 SI se le cumple su demanda
+Al cliente 8 NO se le cumple su demanda
+Al cliente 9 SI se le cumple su demanda
+Al cliente 10 SI se le cumple su demanda
+Al cliente 11 NO se le cumple su demanda
+Al cliente 12 NO se le cumple su demanda
+El outsourcer se encargara de distribuir al cliente 1
+El outsourcer se encargara de distribuir al cliente 2
+El outsourcer se encargara de distribuir al cliente 3
+El outsourcer se encargara de distribuir al cliente 5
+El outsourcer se encargara de distribuir al cliente 6
+El outsourcer se encargara de distribuir al cliente 7
+El outsourcer se encargara de distribuir al cliente 9
+El outsourcer se encargara de distribuir al cliente 10
+El camion 1 NO sera utilizado en este problema por lo cual terminara su jornada inmediatamente
+El camion 2 NO sera utilizado en este problema por lo cual terminara su jornada inmediatamente
+El camion 3 NO sera utilizado en este problema por lo cual terminara su jornada inmediatamente
+El camion 4 NO sera utilizado en este problema por lo cual terminara su jornada inmediatamente
+El camion 5 NO sera utilizado en este problema por lo cual terminara su jornada inmediatamente
+El camion 6 NO sera utilizado en este problema por lo cual terminara su jornada inmediatamente
+El camion 7 NO sera utilizado en este problema por lo cual terminara su jornada inmediatamente
+El camion 8 NO sera utilizado en este problema por lo cual terminara su jornada inmediatamente
+El camion 9 NO sera utilizado en este problema por lo cual terminara su jornada inmediatamente
+El camion 10 NO sera utilizado en este problema por lo cual terminara su jornada inmediatamente
+El camion 11 NO sera utilizado en este problema por lo cual terminara su jornada inmediatamente
+El camion 12 NO sera utilizado en este problema por lo cual terminara su jornada inmediatamente
+El camion 13 NO sera utilizado en este problema por lo cual terminara su jornada inmediatamente
+El camion 14 NO sera utilizado en este problema por lo cual terminara su jornada inmediatamente
